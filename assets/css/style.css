@@ -24,11 +24,16 @@ body{
 	text-align: center;
 	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
 	width: 300px;
-
-
+	
 	
 }
 
+#yes, #no{
+	background-color: #49B1D7;
+	border: solid 1px;
+	width: 32px;
+	text-align: center;
+}
 
 
 
